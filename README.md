@@ -23,9 +23,9 @@ To explore the Belly Button Biodiversity Dashboard, follow these steps:
    git clone https://github.com/your-username/belly-button-challenge.git
    ```
 
-Open the index.html file in a web browser.
+2. Open the index.html file in a web browser.
 
-Use the dropdown menu to select different test subjects and explore the interactive charts and demographic information.
+3. Use the dropdown menu to select different test subjects and explore the interactive charts and demographic information.
 
 ## Usage
 
